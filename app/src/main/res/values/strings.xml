@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+
+
+    <string-array name="theme_names">
+        <item>Light Mode</item>
+        <item>Dark Mode</item>
+        <item>Custom Graphic Theme</item>
+    </string-array>
+
+</resources>
